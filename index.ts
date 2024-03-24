@@ -26,3 +26,5 @@ if (answer.operator === "ADDITION") {
     console.log( "please enter valid number ");
 
     //DONE
+
+    console.log("done")
